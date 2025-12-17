@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ammar Ansari</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansari7016&label=Profile%20views&color=0e75b6&style=flat" alt="ansari7016" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MAUI App Development**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **ASP.NET Core, PHP Laravel, Flutter**
 
